@@ -63,5 +63,15 @@
             </p>
         </article>
     </main>
+    <hr>
+    <h2>Mi mockup</h2>
+    <img src="imagenes/mi mockup.png" alt="Mi mockup">
+    
+    <footer>
+        <p>Correo: danto9306@hotmail.com <br>
+        Skype: danto9306 <br>
+        fecha: 23 de septiembre de 2021.
+        </p>
+    </footer>
 </body>
 </html>
